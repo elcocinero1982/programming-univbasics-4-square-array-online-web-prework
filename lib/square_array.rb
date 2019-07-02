@@ -1,12 +1,13 @@
 def square_array(array)
-  fruits = [3,5,7]
-  square_array(fruits)
-  new_fruits = [7,9,34]
-  square_array(new_fruits)
-  while square_array<= 10 
-  puts square_array
-  square_array += 1 
+ 
   
   
   
+
+counter = 0
+array = [1,2,3,4,5]
+ 
+while array[counter] do
+  puts array[counter]
+  counter += 1
 end
